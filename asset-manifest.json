@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DressStore/static/css/main.f855e6bc.css",
+    "main.js": "/DressStore/static/js/main.0726e2d5.js",
+    "static/js/453.2d40735f.chunk.js": "/DressStore/static/js/453.2d40735f.chunk.js",
+    "static/media/logo.svg": "/DressStore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DressStore/index.html",
+    "main.f855e6bc.css.map": "/DressStore/static/css/main.f855e6bc.css.map",
+    "main.0726e2d5.js.map": "/DressStore/static/js/main.0726e2d5.js.map",
+    "453.2d40735f.chunk.js.map": "/DressStore/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0726e2d5.js"
+  ]
+}
