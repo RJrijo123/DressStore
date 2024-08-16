@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DressStore/static/css/main.d423b5cd.css",
+    "main.css": "/DressStore/static/css/main.b9af83a3.css",
     "main.js": "/DressStore/static/js/main.89ce106c.js",
     "static/media/banner_kids.png": "/DressStore/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/DressStore/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -45,11 +45,11 @@
     "static/media/product_2.png": "/DressStore/static/media/product_2.348b756cc8e145c7a3f2.png",
     "static/media/product_1.png": "/DressStore/static/media/product_1.da6d99e31852472723a5.png",
     "index.html": "/DressStore/index.html",
-    "main.d423b5cd.css.map": "/DressStore/static/css/main.d423b5cd.css.map",
+    "main.b9af83a3.css.map": "/DressStore/static/css/main.b9af83a3.css.map",
     "main.89ce106c.js.map": "/DressStore/static/js/main.89ce106c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d423b5cd.css",
+    "static/css/main.b9af83a3.css",
     "static/js/main.89ce106c.js"
   ]
 }
